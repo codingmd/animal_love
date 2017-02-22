@@ -1,0 +1,100 @@
+.jumbotron {
+  background-color: #a3c1ad;
+}
+header {
+  color: 	#317873;
+  font-weight: bolder;
+  font-size: 40pt;
+  font-family: 'Architects Daughter', cursive;
+}
+
+body {
+  background-color: 	#49796b;
+}
+
+h2 {
+  font-family: 'Architects Daughter', cursive;
+  color: #a3c1ad;
+  text-decoration: underline;
+}
+
+img {
+  min-height: 150px;
+  max-height: 150px;
+}
+
+.carousel {
+  min-height: 300px;
+  max-height: 300px;
+}
+
+.lower {
+  margin-top: 5%;
+}
+
+.dog{
+  float:right;
+  margin-right: 30px;
+  background-color: red;
+}
+
+.left{
+  float:left;
+  margin-right: 20px;
+}
+
+
+nav a {
+  font-family: 'Architects Daughter', cursive;
+  font-size: 10pt;
+  color: #5f9ea0;
+}
+
+nav a:hover {
+  color: #E81C34;
+}
+
+nav a:visited {
+  color: #a0d6b4;
+}
+
+p, ul, ol {
+  font-family: serif;
+  font-size: 10pt;
+  color: black;
+}
+
+.doglist {
+  margin-left: 5%;
+
+}
+
+ol{
+  padding-left: 15px;
+}
+
+
+p::first-letter {
+  font-size: 14pt;
+  font-weight: bolder;
+}
+
+table {
+  font-style: oblique;
+}
+
+.eltable{
+  margin-left: 20px;
+}
+caption {
+  font-size: 8pt;
+  color: #a3c1ad;
+}
+
+td a {
+  color: #5f9ea0;
+  font-family: 'Architects Daughter', cursive;
+}
+tr, td {
+  font-family: 'Architects Daughter', cursive;
+}
